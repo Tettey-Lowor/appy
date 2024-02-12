@@ -30,3 +30,6 @@ function isEligible() {
 }
 //function-invoking
 alert(2isEligible());
+document.DOCUMENT_POSITION_CONTAINED_BY.innerHTML = isEligible();
+
+console.log("we are using GIT!");
